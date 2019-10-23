@@ -24,12 +24,12 @@ $ make enter
 
 Install puppeteer:
 ```
-$ yarn install
+$ cd code && yarn install
 ```
 
 Now you can run your code within the container:
 ```
-$ node index.js
+$ cd code && node index.js
 ```
 
 ## Next Steps
